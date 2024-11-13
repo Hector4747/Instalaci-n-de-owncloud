@@ -1,7 +1,9 @@
 # Manual de instalación de owncloud
 Primer paso: Aixo serveix per poder actualitzar la maquina.
 
-1- sudo apt update
+1- sudo apt update 
+
+<img  
 
 2- sudo apt upgrade
 
