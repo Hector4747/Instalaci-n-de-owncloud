@@ -3,9 +3,11 @@ Primer paso: Aixo serveix per poder actualitzar la maquina.
 
 1- sudo apt update 
 
-<img src="imatge.jpg" alt="sudo apt update captura">
+<img src="sudo apt update captura.png" alt="sudo apt update captura">
 
 2- sudo apt upgrade
+
+<img src="sudo apt upgrade captura.png" alt="sudo apt upgrade captura">
 
 Segundo paso: Ahora procederemos a instalar el servidor web llamado apache2.
 
