@@ -3,7 +3,7 @@ Primer paso: Aixo serveix per poder actualitzar la maquina.
 
 1- sudo apt update 
 
-<img  
+<img src="imatge.jpg" alt="sudo apt update captura">
 
 2- sudo apt upgrade
 
